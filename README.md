@@ -15,3 +15,4 @@ Every challenge has its own readme file with description of a problem, and some 
 * [Check if array value are smaller than limit](https://github.com/Duk4/Algorithms/tree/master/Small-Enough)
 * [Keep Hydrated!](https://github.com/Duk4/Algorithms/tree/master/Keep-Hydrated)
 * [Reverse string](https://github.com/Duk4/Algorithms/tree/master/Reverse-string)
+* [Convert string into an array](https://github.com/Duk4/Algorithms/tree/master/Convert-string-to-array)
