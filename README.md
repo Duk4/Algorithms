@@ -16,3 +16,4 @@ Every challenge has its own readme file with description of a problem, and some 
 * [Keep Hydrated!](https://github.com/Duk4/Algorithms/tree/master/Keep-Hydrated)
 * [Reverse string](https://github.com/Duk4/Algorithms/tree/master/Reverse-string)
 * [Convert string into an array](https://github.com/Duk4/Algorithms/tree/master/Convert-string-to-array)
+* [A wolf in sheep's clothing](https://github.com/Duk4/Algorithms/tree/master/A-wolf-in-sheep's-clothing)
