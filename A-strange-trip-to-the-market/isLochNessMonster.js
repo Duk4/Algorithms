@@ -1,5 +1,5 @@
 function isLochNessMonster(s) {
-    // Using ternary operator I checked if string s contained one of these strings
+    // Using if statement I checked if string s contained one of these strings
     // And returned true if it did, or false if it didn't
     // As Monster uses these phrases when speaking
     let y;
