@@ -20,3 +20,4 @@ Every challenge has its own readme file with description of a problem, and some 
 * [Surface area and volume of a box](https://github.com/Duk4/Algorithms/tree/master/Surface-area-and-volume)
 * [A strange trip to the market](https://github.com/Duk4/Algorithms/tree/master/A-strange-trip-to-the-market)
 * [Remove string spaces](https://github.com/Duk4/Algorithms/tree/master/Remove-String-Spaces)
+* [Third Angle of a Triangle](https://github.com/Duk4/Algorithms/tree/master/Third-angle-of-the-triangle)
