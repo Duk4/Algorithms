@@ -21,3 +21,4 @@ Every challenge has its own readme file with description of a problem, and some 
 * [A strange trip to the market](https://github.com/Duk4/Algorithms/tree/master/A-strange-trip-to-the-market)
 * [Remove string spaces](https://github.com/Duk4/Algorithms/tree/master/Remove-String-Spaces)
 * [Third Angle of a Triangle](https://github.com/Duk4/Algorithms/tree/master/Third-angle-of-the-triangle)
+* [Even or Odd](https://github.com/Duk4/Algorithms/tree/master/Even-or-Odd)
