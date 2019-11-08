@@ -23,3 +23,4 @@ Every challenge has its own readme file with description of a problem, and some 
 * [Third Angle of a Triangle](https://github.com/Duk4/Algorithms/tree/master/Third-angle-of-the-triangle)
 * [Even or Odd](https://github.com/Duk4/Algorithms/tree/master/Even-or-Odd)
 * [Subtraction of max and min in array](https://github.com/Duk4/Algorithms/tree/master/Subtract-max-and-min)
+* [Sum of Cubes](https://github.com/Duk4/Algorithms/tree/master/Sum-of-Cubes)
