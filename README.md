@@ -4,7 +4,6 @@ Every challenge has its own readme file with description of a problem, and some 
 
 ---
 
-<!-- UL -->
 * [Cash register logic](https://github.com/Duk4/Algorithms/tree/master/Cash-register-logic)
 * [Descending order number](https://github.com/Duk4/Algorithms/tree/master/Descending-order)
 * [Find the middle character of a string](https://github.com/Duk4/Algorithms/tree/master/Get-the-middle-character)
@@ -26,3 +25,4 @@ Every challenge has its own readme file with description of a problem, and some 
 * [Sum of Cubes](https://github.com/Duk4/Algorithms/tree/master/Sum-of-Cubes)
 * [Plant growth](https://github.com/Duk4/Algorithms/tree/master/Plant-growth)
 * [Count Duplicates](https://github.com/Duk4/Algorithms/tree/master/Count-Duplicates)
+* [Your order please](https://github.com/Duk4/Algorithms/tree/master/Your-order-please)
