@@ -26,3 +26,4 @@ Every challenge has its own readme file with description of a problem, and some 
 * [Plant growth](https://github.com/Duk4/Algorithms/tree/master/Plant-growth)
 * [Count Duplicates](https://github.com/Duk4/Algorithms/tree/master/Count-Duplicates)
 * [Your order please](https://github.com/Duk4/Algorithms/tree/master/Your-order-please)
+* [Replace With Alphabet Position](https://github.com/Duk4/Algorithms/tree/master/Replace-With-Alphabet-Position)
