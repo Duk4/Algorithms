@@ -28,3 +28,4 @@ Every challenge has its own readme file with description of a problem, and some 
 * [Your order please](https://github.com/Duk4/Algorithms/tree/master/Your-order-please)
 * [Replace With Alphabet Position](https://github.com/Duk4/Algorithms/tree/master/Replace-With-Alphabet-Position)
 * [Plus one array](https://github.com/Duk4/Algorithms/tree/master/Plus-one-array)
+* [Sort and Star](https://github.com/Duk4/Algorithms/tree/master/Sort-and-star)
