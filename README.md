@@ -30,3 +30,4 @@ Every challenge has its own readme file with description of a problem, and some 
 * [Plus one array](https://github.com/Duk4/Algorithms/tree/master/Plus-one-array)
 * [Sort and Star](https://github.com/Duk4/Algorithms/tree/master/Sort-and-star)
 * [Find the longest gap!](https://github.com/Duk4/Algorithms/tree/master/Find-the-longest-gap)
+* [GCD sum](https://github.com/Duk4/Algorithms/tree/master/GCD-sum)
