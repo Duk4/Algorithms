@@ -32,3 +32,4 @@ Every challenge has its own readme file with description of a problem, and some 
 * [Find the longest gap!](https://github.com/Duk4/Algorithms/tree/master/Find-the-longest-gap)
 * [GCD sum](https://github.com/Duk4/Algorithms/tree/master/GCD-sum)
 * [Do you speak english](https://github.com/Duk4/Algorithms/tree/master/Do-you-speak-english)
+* [Kebabize](https://github.com/Duk4/Algorithms/tree/master/Kebabize)
