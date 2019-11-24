@@ -34,3 +34,4 @@ Every challenge has its own readme file with description of a problem, and some 
 * [Do you speak english](https://github.com/Duk4/Algorithms/tree/master/Do-you-speak-english)
 * [Kebabize](https://github.com/Duk4/Algorithms/tree/master/Kebabize)
 * [Do I get a bonus?](https://github.com/Duk4/Algorithms/tree/master/Do-I-get-a-bonus)
+* [Keep up the hoop](https://github.com/Duk4/Algorithms/tree/master/Keep-up-the-hoop)
